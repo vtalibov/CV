@@ -1,19 +1,17 @@
-% LaTeX resume using res.cls
 \documentclass[margin]{res}
-%\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
-%\usepackage{newcent}   % uses new century schoolbook postscript font 
-\setlength{\textwidth}{5.1in} % set width of text portion
-\usepackage[colorlinks = true,linkcolor = blue,urlcolor  = blue,citecolor = blue,anchorcolor = blue]{hyperref}
-\usepackage{bibentry}
+
+\setlength{\textwidth}{5in}
+
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, urlcolor=blue}
+
+\usepackage[sorting=ydnt,style=numeric, giveninits=true, maxbibnames=40]{biblatex}
+\addbibresource{talibov-cv.bib}
 
 \begin{document}
 
-% Center the name over the entire width of resume:
 \moveleft.5\hoffset\centerline{\large\bf Dr. Vladimir O. Talibov}
-% Draw a horizontal line the whole width of resume:
 \moveleft\hoffset\vbox{\hrule width\resumewidth height 1pt}\smallskip
-% address begins here
-% Again, the address lines must be centered over entire width of resume:
 
 \moveleft.5\hoffset\centerline{Neversv\"agen 43 \hfill +460728453329}
 \moveleft.5\hoffset\centerline{SE 22479 \hfill \href{mailto:vladimir.o.talibov@gmail.com}{vladimir.o.talibov@gmail.com}}
@@ -57,13 +55,12 @@ Moscow State University, Moscow, Russia \\
                  
 \section{Interests} Protein chemistry, methods for FBLD, drug design, protein-ligand interfaces.
  
+
+\newpage
+
 \section{Publications}
-
-\bibliographystyle{plain}
-\nobibliography{talibov-cv}
-
-\bibentry{
-
+\nocite{*}
+\printbibliography[heading=none]
 \end{resume}
 
 \end{document}

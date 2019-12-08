@@ -1,3 +1,544 @@
-\begin{thebibliography}{}
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
 
-\end{thebibliography}
+
+\refsection{0}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{fabini2019unveiling}{article}{}
+      \name{author}{8}{}{%
+        {{hash=71cbc91356906b6d4a4742bbd8443ce5}{%
+           family={Fabini},
+           familyi={F\bibinitperiod},
+           given={Edoardo},
+           giveni={E\bibinitperiod}}}%
+        {{hash=a0c71d4e5cbc2f22a1af2f25b94e249a}{%
+           family={Talibov},
+           familyi={T\bibinitperiod},
+           given={Vladimir\bibnamedelima O},
+           giveni={V\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=ad2aa9a40ad897956d1f6b200adb6447}{%
+           family={Mihalic},
+           familyi={M\bibinitperiod},
+           given={Filip},
+           giveni={F\bibinitperiod}}}%
+        {{hash=8235974bb1700ec1c8f1afd8472b20b6}{%
+           family={Naldi},
+           familyi={N\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5d6c802495565ba0a56b4516be6dead4}{%
+           family={Bartolini},
+           familyi={B\bibinitperiod},
+           given={Manuela},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6e3bed40871278201c9d4f4f33b06b19}{%
+           family={Bertucci},
+           familyi={B\bibinitperiod},
+           given={Carlo},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a414430dd5455b3b969f9bb4432c2ed5}{%
+           family={Del\bibnamedelima Rio},
+           familyi={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c9b77a2a747c3252f7916704d226ef3f}{%
+           family={Danielson},
+           familyi={D\bibinitperiod},
+           given={U\bibnamedelima Helena},
+           giveni={U\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{71fbd21b3ae7a198a03863c5aaf053e0}
+      \strng{fullhash}{f08077b69b547b89908721c320e49ee1}
+      \strng{bibnamehash}{f08077b69b547b89908721c320e49ee1}
+      \strng{authorbibnamehash}{f08077b69b547b89908721c320e49ee1}
+      \strng{authornamehash}{71fbd21b3ae7a198a03863c5aaf053e0}
+      \strng{authorfullhash}{f08077b69b547b89908721c320e49ee1}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biochemistry}
+      \field{number}{35}
+      \field{title}{Unveiling the biochemistry of the epigenetic regulator SMYD3}
+      \field{volume}{58}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{3634\bibrangedash 3645}
+      \range{pages}{12}
+    \endentry
+    \entry{talibov2019kinetic}{incollection}{}
+      \name{author}{4}{}{%
+        {{hash=a0c71d4e5cbc2f22a1af2f25b94e249a}{%
+           family={Talibov},
+           familyi={T\bibinitperiod},
+           given={Vladimir\bibnamedelima O},
+           giveni={V\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=4bab72277f83a0beebd8d3f06380c01c}{%
+           family={Linkuvien{ė}},
+           familyi={L\bibinitperiod},
+           given={Vaida},
+           giveni={V\bibinitperiod}}}%
+        {{hash=c9b77a2a747c3252f7916704d226ef3f}{%
+           family={Danielson},
+           familyi={D\bibinitperiod},
+           given={U\bibnamedelima Helena},
+           giveni={U\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=6ba5fba51686b32a9bbbecab11f6186e}{%
+           family={Matulis},
+           familyi={M\bibinitperiod},
+           given={Daumantas},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer, Cham}%
+      }
+      \strng{namehash}{90dcf9f06b8566198cfd609d1de6094e}
+      \strng{fullhash}{dd6e257539387247b4a786b1ad432267}
+      \strng{bibnamehash}{dd6e257539387247b4a786b1ad432267}
+      \strng{authorbibnamehash}{dd6e257539387247b4a786b1ad432267}
+      \strng{authornamehash}{90dcf9f06b8566198cfd609d1de6094e}
+      \strng{authorfullhash}{dd6e257539387247b4a786b1ad432267}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Carbonic Anhydrase as Drug Target}
+      \field{title}{Kinetic Analysis of Carbonic Anhydrase--Sulfonamide Inhibitor Interactions}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{125\bibrangedash 140}
+      \range{pages}{16}
+    \endentry
+    \entry{linkuviene2018introduction}{article}{}
+      \name{author}{4}{}{%
+        {{hash=88f617df8f5673db2fce999c6ac73968}{%
+           family={Linkuviene},
+           familyi={L\bibinitperiod},
+           given={Vaida},
+           giveni={V\bibinitperiod}}}%
+        {{hash=a0c71d4e5cbc2f22a1af2f25b94e249a}{%
+           family={Talibov},
+           familyi={T\bibinitperiod},
+           given={Vladimir\bibnamedelima O},
+           giveni={V\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=c9b77a2a747c3252f7916704d226ef3f}{%
+           family={Danielson},
+           familyi={D\bibinitperiod},
+           given={U\bibnamedelima Helena},
+           giveni={U\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=6ba5fba51686b32a9bbbecab11f6186e}{%
+           family={Matulis},
+           familyi={M\bibinitperiod},
+           given={Daumantas},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{f6aab3139d0531de3431ade123a872ea}
+      \strng{fullhash}{52f2919359f4dbc4fe89a163440380d2}
+      \strng{bibnamehash}{52f2919359f4dbc4fe89a163440380d2}
+      \strng{authorbibnamehash}{52f2919359f4dbc4fe89a163440380d2}
+      \strng{authornamehash}{f6aab3139d0531de3431ade123a872ea}
+      \strng{authorfullhash}{52f2919359f4dbc4fe89a163440380d2}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Med. Chem.}
+      \field{number}{6}
+      \field{title}{Introduction of intrinsic kinetics of protein--ligand interactions and their implications for drug design}
+      \field{volume}{61}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{2292\bibrangedash 2302}
+      \range{pages}{11}
+    \endentry
+    \entry{seeger2017biophysical}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e4f4893c3a36468cd8138a303f160b69}{%
+           family={Seeger},
+           familyi={S\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a0c71d4e5cbc2f22a1af2f25b94e249a}{%
+           family={Talibov},
+           familyi={T\bibinitperiod},
+           given={Vladimir\bibnamedelima O},
+           giveni={V\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=c9b77a2a747c3252f7916704d226ef3f}{%
+           family={Danielson},
+           familyi={D\bibinitperiod},
+           given={U\bibnamedelima Helena},
+           giveni={U\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{21c641be693e5e6dd7b1cb340ea921f1}
+      \strng{fullhash}{21c641be693e5e6dd7b1cb340ea921f1}
+      \strng{bibnamehash}{21c641be693e5e6dd7b1cb340ea921f1}
+      \strng{authorbibnamehash}{21c641be693e5e6dd7b1cb340ea921f1}
+      \strng{authornamehash}{21c641be693e5e6dd7b1cb340ea921f1}
+      \strng{authorfullhash}{21c641be693e5e6dd7b1cb340ea921f1}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Mol. Recognit.}
+      \field{number}{8}
+      \field{title}{Biophysical analysis of the dynamics of calmodulin interactions with neurogranin and Ca2+/calmodulin-dependent kinase II}
+      \field{volume}{30}
+      \field{year}{2017}
+      \true{nocite}
+      \field{pages}{e2621}
+      \range{pages}{-1}
+    \endentry
+    \entry{talibov2016kinetically}{article}{}
+      \name{author}{4}{}{%
+        {{hash=a0c71d4e5cbc2f22a1af2f25b94e249a}{%
+           family={Talibov},
+           familyi={T\bibinitperiod},
+           given={Vladimir\bibnamedelima O},
+           giveni={V\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=4bab72277f83a0beebd8d3f06380c01c}{%
+           family={Linkuvienė},
+           familyi={L\bibinitperiod},
+           given={Vaida},
+           giveni={V\bibinitperiod}}}%
+        {{hash=6ba5fba51686b32a9bbbecab11f6186e}{%
+           family={Matulis},
+           familyi={M\bibinitperiod},
+           given={Daumantas},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c9b77a2a747c3252f7916704d226ef3f}{%
+           family={Danielson},
+           familyi={D\bibinitperiod},
+           given={U\bibnamedelima Helena},
+           giveni={U\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society}%
+      }
+      \strng{namehash}{90dcf9f06b8566198cfd609d1de6094e}
+      \strng{fullhash}{7ea7afcf8943c6409f87cf61377afc9b}
+      \strng{bibnamehash}{7ea7afcf8943c6409f87cf61377afc9b}
+      \strng{authorbibnamehash}{7ea7afcf8943c6409f87cf61377afc9b}
+      \strng{authornamehash}{90dcf9f06b8566198cfd609d1de6094e}
+      \strng{authorfullhash}{7ea7afcf8943c6409f87cf61377afc9b}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Med. Chem.}
+      \field{number}{5}
+      \field{title}{Kinetically selective inhibitors of human carbonic anhydrase isozymes I, II, VII, IX, XII, and XIII}
+      \field{volume}{59}
+      \field{year}{2016}
+      \true{nocite}
+      \field{pages}{2083\bibrangedash 2093}
+      \range{pages}{11}
+    \endentry
+    \entry{butvilovskaya2015preparation}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=4723e7dec30f7fe611b12dbc2e02b6b2}{%
+           family={Butvilovskaya},
+           familyi={B\bibinitperiod},
+           given={V\bibnamedelima I},
+           giveni={V\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=d10cb69f1462584f2e3717eaa8a5ba61}{%
+           family={Tsybulskaya},
+           familyi={T\bibinitperiod},
+           given={M\bibnamedelima V},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=8ea6d36cf9bf7808135dbfc0848ab3ed}{%
+           family={Tikhonov},
+           familyi={T\bibinitperiod},
+           given={A\bibnamedelima A},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=2de60e85510dbc7ea2b6ba1fcd423c6f}{%
+           family={Talibov},
+           familyi={T\bibinitperiod},
+           given={V\bibnamedelima O},
+           giveni={V\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=41742f42c5b9b69e4024393006e729c0}{%
+           family={Belousov},
+           familyi={B\bibinitperiod},
+           given={P\bibnamedelima V},
+           giveni={P\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=c8b60767a9054e479789408d3aab0e61}{%
+           family={Sazykin},
+           familyi={S\bibinitperiod},
+           given={A\bibnamedelima Yu},
+           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=34b20ae4134888f6644bda8203bf996e}{%
+           family={Schwartz},
+           familyi={S\bibinitperiod},
+           given={A\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=79094cbd40e77173874f7563ef0660a8}{%
+           family={Surzhikov},
+           familyi={S\bibinitperiod},
+           given={S\bibnamedelima A},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=b839f9c138e531ee4e20415b8d7342f0}{%
+           family={Stomakhin},
+           familyi={S\bibinitperiod},
+           given={A\bibnamedelima A},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=bf27aca4f2c5b85fbd077b8295c3743d}{%
+           family={Solopova},
+           familyi={S\bibinitperiod},
+           given={O\bibnamedelima N},
+           giveni={O\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pleiades Publishing}%
+      }
+      \strng{namehash}{6b76ce79c11784cb8b10bf895f972247}
+      \strng{fullhash}{ea72d4156b9948fa1d86044af34e3702}
+      \strng{bibnamehash}{ea72d4156b9948fa1d86044af34e3702}
+      \strng{authorbibnamehash}{ea72d4156b9948fa1d86044af34e3702}
+      \strng{authornamehash}{6b76ce79c11784cb8b10bf895f972247}
+      \strng{authorfullhash}{ea72d4156b9948fa1d86044af34e3702}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mol. Biol.}
+      \field{number}{5}
+      \field{title}{Preparation of recombinant serpins B3 and B4 and investigation of their specific interactions with antibodies using hydrogel-based microarrays}
+      \field{volume}{49}
+      \field{year}{2015}
+      \true{nocite}
+      \field{pages}{705\bibrangedash 713}
+      \range{pages}{9}
+    \endentry
+    \entry{koos2015proximity}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=0713704bb8926942acb1c7833f5540ed}{%
+           family={Koos},
+           familyi={K\bibinitperiod},
+           given={Bj{ö}rn},
+           giveni={B\bibinitperiod}}}%
+        {{hash=839b1ae50cf4d7108fea1d2f2be3d86c}{%
+           family={Cane},
+           familyi={C\bibinitperiod},
+           given={Ga{ë}lle},
+           giveni={G\bibinitperiod}}}%
+        {{hash=cdecece79f92e13bf6c0f057473e3eed}{%
+           family={Grannas},
+           familyi={G\bibinitperiod},
+           given={Karin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=80a58356b3cc481cbf4cac01d07c3c7a}{%
+           family={L{ö}f},
+           familyi={L\bibinitperiod},
+           given={Liza},
+           giveni={L\bibinitperiod}}}%
+        {{hash=2381654d9390994dadf21565b8903d7c}{%
+           family={Arng{å}rden},
+           familyi={A\bibinitperiod},
+           given={Linda},
+           giveni={L\bibinitperiod}}}%
+        {{hash=3f82d5d37b5bf2787a5cb737e6404867}{%
+           family={Heldin},
+           familyi={H\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8c00a97f7dbb27be3188681e96597874}{%
+           family={Clausson},
+           familyi={C\bibinitperiod},
+           given={Carl-Magnus},
+           giveni={C\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=dff57b7e828dfeba1e23ea8052841883}{%
+           family={Klaesson},
+           familyi={K\bibinitperiod},
+           given={Axel},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bfd213dc3c73a81c47fdbcd29d0f456f}{%
+           family={Hirvonen},
+           familyi={H\bibinitperiod},
+           given={M\bibnamedelima Karoliina},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=3a65d2f4260fd42a11ffed25af8000b6}{%
+           family={De\bibnamedelima Oliveira},
+           familyi={D\bibinitperiod\bibinitdelim O\bibinitperiod},
+           given={Felipe\bibnamedelima MS},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{6e0904e4f446a6ead56c028401c745b9}
+      \strng{fullhash}{ac1c234bf8977b9a8ab8dfcc5e1164e0}
+      \strng{bibnamehash}{ac1c234bf8977b9a8ab8dfcc5e1164e0}
+      \strng{authorbibnamehash}{ac1c234bf8977b9a8ab8dfcc5e1164e0}
+      \strng{authornamehash}{6e0904e4f446a6ead56c028401c745b9}
+      \strng{authorfullhash}{ac1c234bf8977b9a8ab8dfcc5e1164e0}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nat. Commun.}
+      \field{title}{Proximity-dependent initiation of hybridization chain reaction}
+      \field{volume}{6}
+      \field{year}{2015}
+      \true{nocite}
+      \field{pages}{7294}
+      \range{pages}{1}
+    \endentry
+    \entry{feyzkhanova2014development}{article}{}
+      \name{author}{10}{}{%
+        {{hash=c5d0e05dcb18ac42fec1b95cb142ae85}{%
+           family={Feyzkhanova},
+           familyi={F\bibinitperiod},
+           given={G\bibnamedelima U},
+           giveni={G\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+        {{hash=7aa02a60a473d318e0b8dc6cc67878e7}{%
+           family={Filippova},
+           familyi={F\bibinitperiod},
+           given={M\bibnamedelima A},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=2de60e85510dbc7ea2b6ba1fcd423c6f}{%
+           family={Talibov},
+           familyi={T\bibinitperiod},
+           given={V\bibnamedelima O},
+           giveni={V\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=86f2b6e84e46f55df5f7d4bc0628e924}{%
+           family={Dementieva},
+           familyi={D\bibinitperiod},
+           given={E\bibnamedelima I},
+           giveni={E\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=a961ba2b2363b9826e0293d328f3f4c8}{%
+           family={Maslennikov},
+           familyi={M\bibinitperiod},
+           given={V\bibnamedelima V},
+           giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=2de81f1569824bb28e2675a648e5d4e5}{%
+           family={Reznikov},
+           familyi={R\bibinitperiod},
+           given={Yu\bibnamedelima P},
+           giveni={Y\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=e34b9cb1e9b52c3a65de6e046fa421fc}{%
+           family={Offermann},
+           familyi={O\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
+        {{hash=0bd470027d776f41fd28e8ab4fc8244e}{%
+           family={Zasedatelev},
+           familyi={Z\bibinitperiod},
+           given={A\bibnamedelima S},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=03929ef3a68398846b4d86b76965d94c}{%
+           family={Rubina},
+           familyi={R\bibinitperiod},
+           given={A\bibnamedelima Yu},
+           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=3d984b3ff76a8a0d751302b1ebf56b3e}{%
+           family={Fooke-Achterrath},
+           familyi={F\bibinithyphendelim A\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{60e939fc1377d3162e4368ae6fd645ef}
+      \strng{fullhash}{015a36b46a6de3e448a1c12d64c2dfd3}
+      \strng{bibnamehash}{015a36b46a6de3e448a1c12d64c2dfd3}
+      \strng{authorbibnamehash}{015a36b46a6de3e448a1c12d64c2dfd3}
+      \strng{authornamehash}{60e939fc1377d3162e4368ae6fd645ef}
+      \strng{authorfullhash}{015a36b46a6de3e448a1c12d64c2dfd3}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Immunol. Methods}
+      \field{title}{Development of hydrogel biochip for in vitro allergy diagnostics}
+      \field{volume}{406}
+      \field{year}{2014}
+      \true{nocite}
+      \field{pages}{51\bibrangedash 57}
+      \range{pages}{7}
+    \endentry
+    \entry{rubina2012multiplex}{article}{}
+      \name{author}{6}{}{%
+        {{hash=03929ef3a68398846b4d86b76965d94c}{%
+           family={Rubina},
+           familyi={R\bibinitperiod},
+           given={A\bibnamedelima Yu},
+           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=0605752854840dcbcb0cf120cd825572}{%
+           family={Feizkhanova},
+           familyi={F\bibinitperiod},
+           given={G\bibnamedelima U},
+           giveni={G\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+        {{hash=7aa02a60a473d318e0b8dc6cc67878e7}{%
+           family={Filippova},
+           familyi={F\bibinitperiod},
+           given={M\bibnamedelima A},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=2de60e85510dbc7ea2b6ba1fcd423c6f}{%
+           family={Talibov},
+           familyi={T\bibinitperiod},
+           given={V\bibnamedelima O},
+           giveni={V\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=3d984b3ff76a8a0d751302b1ebf56b3e}{%
+           family={Fooke-Achterrath},
+           familyi={F\bibinithyphendelim A\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0bd470027d776f41fd28e8ab4fc8244e}{%
+           family={Zasedatelev},
+           familyi={Z\bibinitperiod},
+           given={A\bibnamedelima S},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer Science \& Business Media}%
+      }
+      \strng{namehash}{55b480d562aeccb98a96c743f5216388}
+      \strng{fullhash}{9b2bc73b177325cb2d44a40094311fb4}
+      \strng{bibnamehash}{9b2bc73b177325cb2d44a40094311fb4}
+      \strng{authorbibnamehash}{9b2bc73b177325cb2d44a40094311fb4}
+      \strng{authornamehash}{55b480d562aeccb98a96c743f5216388}
+      \strng{authorfullhash}{9b2bc73b177325cb2d44a40094311fb4}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Dokl. Biochem. Biophys.}
+      \field{number}{1}
+      \field{title}{Multiplex assay of allergen-specific and total immunoglobulins of E and G classes in the biochip format}
+      \field{volume}{447}
+      \field{year}{2012}
+      \true{nocite}
+      \field{pages}{289}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
