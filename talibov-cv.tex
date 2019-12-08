@@ -1,0 +1,69 @@
+% LaTeX resume using res.cls
+\documentclass[margin]{res}
+%\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
+%\usepackage{newcent}   % uses new century schoolbook postscript font 
+\setlength{\textwidth}{5.1in} % set width of text portion
+\usepackage[colorlinks = true,linkcolor = blue,urlcolor  = blue,citecolor = blue,anchorcolor = blue]{hyperref}
+\usepackage{bibentry}
+
+\begin{document}
+
+% Center the name over the entire width of resume:
+\moveleft.5\hoffset\centerline{\large\bf Dr. Vladimir O. Talibov}
+% Draw a horizontal line the whole width of resume:
+\moveleft\hoffset\vbox{\hrule width\resumewidth height 1pt}\smallskip
+% address begins here
+% Again, the address lines must be centered over entire width of resume:
+
+\moveleft.5\hoffset\centerline{Neversv\"agen 43 \hfill +460728453329}
+\moveleft.5\hoffset\centerline{SE 22479 \hfill \href{mailto:vladimir.o.talibov@gmail.com}{vladimir.o.talibov@gmail.com}}
+\moveleft.5\hoffset\centerline{Lund, Sweden \hfill \href{http://vtalibov.xyz}{http://vtalibov.xyz}}
+
+\begin{resume}
+  
+\section{Summary}{Protein chemist with an interest in early stage drug discovery. Experienced in biosensors, fragment screening, biophysical techniques and structural methods. Keen to set up new expertises and methodologies that are required for a successful project development.}
+
+\section{Skills}
+{\sl \underline{Experimental:}} Biophysical methods (SPR, MST, TSA), protein crystallisation, expression\&purification, synchrotron-based MX, enzymology.\\
+{\sl \underline{Computer:}} *nix, Python (numerical analysis, data processing), \TeX, crystallographic suites, KNIME.\\
+{\sl \underline{Languages:}} English, Russian, Swedish (basic).\\
+{\sl \underline{Expertise:}} FBLD, early-stage drug design, biophysical methods, protein chemistry.
+
+\section{Experience} 
+
+{\sl Researcher} \hfill 2019 -- current \\
+MAX IV laboratory, Lund, Sweden
+\begin{itemize}
+\setlength\itemsep{0em}
+\item Beamline development and user support as a beamline scientist.
+\item Design, maintenance and curation of in-house fragment library; development of operational protocols for MAX IV fragment screening facility.
+\end{itemize}
+
+{\sl Laboratory Assistant} \hfill 2012 -- 2014 \\
+OOO "Biochip-IMB", Moscow, Russia
+\begin{itemize}
+\setlength\itemsep{0em}
+\item Clinical chemistry: development and benchmarking of protein microarray-based diagnostic assays.
+\item QC of proteins and reactive small molecules.
+\end{itemize}
+ 
+\section{Education} {\sl PhD in Biochemistry} \hfill 2014 -- 2019 \\
+Uppsala University, Uppsala, Sweden \\
+Biophysical methods, protein crystallography. \\
+Thesis: \href{http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1256395&dswid=214}{"Interaction kinetic analysis in drug design, enzymology and protein research"}
+
+{\sl BSc\&MSc in Chemistry} \hfill 2008 -- 2013 \\
+Moscow State University, Moscow, Russia \\
+                 
+\section{Interests} Protein chemistry, methods for FBLD, drug design, protein-ligand interfaces.
+ 
+\section{Publications}
+
+\bibliographystyle{plain}
+\nobibliography{talibov-cv}
+
+\bibentry{
+
+\end{resume}
+
+\end{document}
