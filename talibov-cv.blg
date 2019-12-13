@@ -1,15 +1,15 @@
 [0] Config.pm:304> INFO - This is Biber 2.12
 [0] Config.pm:307> INFO - Logfile is 'talibov-cv.blg'
-[37] biber-darwin:315> INFO - === Sun Dec  8, 2019, 19:21:34
-[58] Biber.pm:371> INFO - Reading 'talibov-cv.bcf'
-[147] Biber.pm:886> INFO - Using all citekeys in bib section 0
-[160] Biber.pm:4093> INFO - Processing section 0
-[171] Biber.pm:4254> INFO - Looking for bibtex format file 'talibov-cv.bib' for section 0
-[172] bibtex.pm:1523> INFO - LaTeX decoding ...
-[189] bibtex.pm:1340> INFO - Found BibTeX data source 'talibov-cv.bib'
-[307] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[307] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[307] Biber.pm:3921> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[307] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
-[323] bbl.pm:636> INFO - Writing 'talibov-cv.bbl' with encoding 'UTF-8'
-[328] bbl.pm:739> INFO - Output to talibov-cv.bbl
+[37] biber-darwin:315> INFO - === Sun Dec  8, 2019, 21:04:13
+[60] Biber.pm:371> INFO - Reading 'talibov-cv.bcf'
+[144] Biber.pm:886> INFO - Using all citekeys in bib section 0
+[156] Biber.pm:4093> INFO - Processing section 0
+[168] Biber.pm:4254> INFO - Looking for bibtex format file 'talibov-cv.bib' for section 0
+[169] bibtex.pm:1523> INFO - LaTeX decoding ...
+[188] bibtex.pm:1340> INFO - Found BibTeX data source 'talibov-cv.bib'
+[304] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[304] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[305] Biber.pm:3921> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[305] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[317] bbl.pm:636> INFO - Writing 'talibov-cv.bbl' with encoding 'UTF-8'
+[322] bbl.pm:739> INFO - Output to talibov-cv.bbl
