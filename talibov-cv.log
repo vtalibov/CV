@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.13)  13 DEC 2019 23:32
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.11.13)  19 FEB 2020 21:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -461,12 +461,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 20.
-
-Overfull \hbox (5.66599pt too wide) in paragraph at lines 25--29
-[]$ \TU/lmr/m/n/10 *nix, Python (data analysis, RDkit), T[]X, crystallographic 
-suites,
- []
-
 
 Overfull \hbox (17.53001pt too wide) in paragraph at lines 44--45
 []\TU/lmr/m/n/10 Clinical chemistry: development and benchmarking of protein mi
