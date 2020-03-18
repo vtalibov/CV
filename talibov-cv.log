@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=latex 2019.11.13)  18 MAR 2020 22:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.11.13)  19 MAR 2020 00:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -62,7 +62,7 @@ Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+Package pdftexcmds Info: \pdfdraftmode found.
 Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
 Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
 )
@@ -137,20 +137,12 @@ LaTeX Info: Redefining \pageref on input line 6454.
 \c@Item=\count95
 \c@Hfootnote=\count96
 )
-Package hyperref Info: Driver (default): hdvips.
+Package hyperref Info: Driver (autodetected): hpdftex.
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hdvips.def
-File: hdvips.def 2018/11/30 v6.88e Hyperref driver for dvips
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pdfmark.def
-File: pdfmark.def 2018/11/30 v6.88e Hyperref definitions for pdfmark specials
-\pdf@docset=\toks20
-\pdf@box=\box27
-\pdf@toks=\toks21
-\pdf@defaulttoks=\toks22
-\HyField@AnnotCount=\count97
-\Fld@listcount=\count98
-\c@bookmark@seq@number=\count99
+(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count97
+\c@bookmark@seq@number=\count98
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
@@ -158,7 +150,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip44
-))
+)
 Package hyperref Info: Option `colorlinks' set `true' on input line 6.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/biblatex.sty
@@ -166,11 +158,11 @@ Package: biblatex 2018/11/02 v3.12 programmable bibliographies (PK/MW)
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count100
+\etb@tempcnta=\count99
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count101
+\lrq@indent=\count100
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -178,47 +170,47 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\c@tabx@nest=\count102
-\c@listtotal=\count103
-\c@listcount=\count104
-\c@liststart=\count105
-\c@liststop=\count106
-\c@citecount=\count107
-\c@citetotal=\count108
-\c@multicitecount=\count109
-\c@multicitetotal=\count110
-\c@instcount=\count111
-\c@maxnames=\count112
-\c@minnames=\count113
-\c@maxitems=\count114
-\c@minitems=\count115
-\c@citecounter=\count116
-\c@maxcitecounter=\count117
-\c@savedcitecounter=\count118
-\c@uniquelist=\count119
-\c@uniquename=\count120
-\c@refsection=\count121
-\c@refsegment=\count122
-\c@maxextratitle=\count123
-\c@maxextratitleyear=\count124
-\c@maxextraname=\count125
-\c@maxextradate=\count126
-\c@maxextraalpha=\count127
-\c@abbrvpenalty=\count128
-\c@highnamepenalty=\count129
-\c@lownamepenalty=\count130
-\c@maxparens=\count131
-\c@parenlevel=\count132
-\blx@tempcnta=\count133
-\blx@tempcntb=\count134
-\blx@tempcntc=\count135
-\blx@maxsection=\count136
-\blx@maxsegment@0=\count137
-\blx@notetype=\count138
-\blx@parenlevel@text=\count139
-\blx@parenlevel@foot=\count140
-\blx@sectionciteorder@0=\count141
-\blx@entrysetcounter=\count142
+\c@tabx@nest=\count101
+\c@listtotal=\count102
+\c@listcount=\count103
+\c@liststart=\count104
+\c@liststop=\count105
+\c@citecount=\count106
+\c@citetotal=\count107
+\c@multicitecount=\count108
+\c@multicitetotal=\count109
+\c@instcount=\count110
+\c@maxnames=\count111
+\c@minnames=\count112
+\c@maxitems=\count113
+\c@minitems=\count114
+\c@citecounter=\count115
+\c@maxcitecounter=\count116
+\c@savedcitecounter=\count117
+\c@uniquelist=\count118
+\c@uniquename=\count119
+\c@refsection=\count120
+\c@refsegment=\count121
+\c@maxextratitle=\count122
+\c@maxextratitleyear=\count123
+\c@maxextraname=\count124
+\c@maxextradate=\count125
+\c@maxextraalpha=\count126
+\c@abbrvpenalty=\count127
+\c@highnamepenalty=\count128
+\c@lownamepenalty=\count129
+\c@maxparens=\count130
+\c@parenlevel=\count131
+\blx@tempcnta=\count132
+\blx@tempcntb=\count133
+\blx@tempcntc=\count134
+\blx@maxsection=\count135
+\blx@maxsegment@0=\count136
+\blx@notetype=\count137
+\blx@parenlevel@text=\count138
+\blx@parenlevel@foot=\count139
+\blx@sectionciteorder@0=\count140
+\blx@entrysetcounter=\count141
 \labelnumberwidth=\skip45
 \labelalphawidth=\skip46
 \biblabelsep=\skip47
@@ -229,9 +221,9 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \bibhang=\skip52
 \blx@bcfin=\read1
 \blx@bcfout=\write3
-\c@mincomprange=\count143
-\c@maxcomprange=\count144
-\c@mincompwidth=\count145
+\c@mincomprange=\count142
+\c@maxcomprange=\count143
+\c@mincompwidth=\count144
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -242,74 +234,74 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'numeric.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count146
-\c@savedafterword=\count147
-\c@annotator=\count148
-\c@savedannotator=\count149
-\c@author=\count150
-\c@savedauthor=\count151
-\c@bookauthor=\count152
-\c@savedbookauthor=\count153
-\c@commentator=\count154
-\c@savedcommentator=\count155
-\c@editor=\count156
-\c@savededitor=\count157
-\c@editora=\count158
-\c@savededitora=\count159
-\c@editorb=\count160
-\c@savededitorb=\count161
-\c@editorc=\count162
-\c@savededitorc=\count163
-\c@foreword=\count164
-\c@savedforeword=\count165
-\c@holder=\count166
-\c@savedholder=\count167
-\c@introduction=\count168
-\c@savedintroduction=\count169
-\c@namea=\count170
-\c@savednamea=\count171
-\c@nameb=\count172
-\c@savednameb=\count173
-\c@namec=\count174
-\c@savednamec=\count175
-\c@translator=\count176
-\c@savedtranslator=\count177
-\c@shortauthor=\count178
-\c@savedshortauthor=\count179
-\c@shorteditor=\count180
-\c@savedshorteditor=\count181
-\c@labelname=\count182
-\c@savedlabelname=\count183
-\c@institution=\count184
-\c@savedinstitution=\count185
-\c@lista=\count186
-\c@savedlista=\count187
-\c@listb=\count188
-\c@savedlistb=\count189
-\c@listc=\count190
-\c@savedlistc=\count191
-\c@listd=\count192
-\c@savedlistd=\count193
-\c@liste=\count194
-\c@savedliste=\count195
-\c@listf=\count196
-\c@savedlistf=\count197
-\c@location=\count198
-\c@savedlocation=\count199
-\c@organization=\count266
-\c@savedorganization=\count267
-\c@origlocation=\count268
-\c@savedoriglocation=\count269
-\c@origpublisher=\count270
-\c@savedorigpublisher=\count271
-\c@publisher=\count272
-\c@savedpublisher=\count273
-\c@language=\count274
-\c@savedlanguage=\count275
-\c@origlanguage=\count276
-\c@savedoriglanguage=\count277
-\c@pageref=\count278
-\c@savedpageref=\count279
+\c@afterword=\count145
+\c@savedafterword=\count146
+\c@annotator=\count147
+\c@savedannotator=\count148
+\c@author=\count149
+\c@savedauthor=\count150
+\c@bookauthor=\count151
+\c@savedbookauthor=\count152
+\c@commentator=\count153
+\c@savedcommentator=\count154
+\c@editor=\count155
+\c@savededitor=\count156
+\c@editora=\count157
+\c@savededitora=\count158
+\c@editorb=\count159
+\c@savededitorb=\count160
+\c@editorc=\count161
+\c@savededitorc=\count162
+\c@foreword=\count163
+\c@savedforeword=\count164
+\c@holder=\count165
+\c@savedholder=\count166
+\c@introduction=\count167
+\c@savedintroduction=\count168
+\c@namea=\count169
+\c@savednamea=\count170
+\c@nameb=\count171
+\c@savednameb=\count172
+\c@namec=\count173
+\c@savednamec=\count174
+\c@translator=\count175
+\c@savedtranslator=\count176
+\c@shortauthor=\count177
+\c@savedshortauthor=\count178
+\c@shorteditor=\count179
+\c@savedshorteditor=\count180
+\c@labelname=\count181
+\c@savedlabelname=\count182
+\c@institution=\count183
+\c@savedinstitution=\count184
+\c@lista=\count185
+\c@savedlista=\count186
+\c@listb=\count187
+\c@savedlistb=\count188
+\c@listc=\count189
+\c@savedlistc=\count190
+\c@listd=\count191
+\c@savedlistd=\count192
+\c@liste=\count193
+\c@savedliste=\count194
+\c@listf=\count195
+\c@savedlistf=\count196
+\c@location=\count197
+\c@savedlocation=\count198
+\c@organization=\count199
+\c@savedorganization=\count266
+\c@origlocation=\count267
+\c@savedoriglocation=\count268
+\c@origpublisher=\count269
+\c@savedorigpublisher=\count270
+\c@publisher=\count271
+\c@savedpublisher=\count272
+\c@language=\count273
+\c@savedlanguage=\count274
+\c@origlanguage=\count275
+\c@savedoriglanguage=\count276
+\c@pageref=\count277
+\c@savedpageref=\count278
 \shorthandwidth=\skip53
 \shortjournalwidth=\skip54
 \shortserieswidth=\skip55
@@ -335,13 +327,13 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
-\c@textcitecount=\count280
-\c@textcitetotal=\count281
-\c@textcitemaxnames=\count282
-\c@biburlnumpenalty=\count283
-\c@biburlucpenalty=\count284
-\c@biburllcpenalty=\count285
-\c@smartand=\count286
+\c@textcitecount=\count279
+\c@textcitetotal=\count280
+\c@textcitemaxnames=\count281
+\c@biburlnumpenalty=\count282
+\c@biburlucpenalty=\count283
+\c@biburllcpenalty=\count284
+\c@smartand=\count285
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
@@ -353,8 +345,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count287
-\c@bbx:relatedtotal=\count288
+\c@bbx:relatedcount=\count286
+\c@bbx:relatedtotal=\count287
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
@@ -385,8 +377,8 @@ Package biblatex Info: ... file 'english.lbx' found.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 )
-\@quotelevel=\count289
-\@quotereset=\count290
+\@quotelevel=\count288
+\@quotereset=\count289
 
 (./talibov-cv.aux)
 \openout1 = `talibov-cv.aux'.
@@ -405,7 +397,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
-\AtBeginShipoutBox=\box28
+\AtBeginShipoutBox=\box27
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
@@ -413,23 +405,33 @@ Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package color Info: Driver file: dvips.def on input line 147.
+Package color Info: Driver file: pdftex.def on input line 147.
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/dvips.def
-File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
-)
-(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/dvipsnam.def
-File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+
+(/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count290
+\scratchdimen=\dimen110
+\scratchbox=\box28
+\nofMPsegments=\count291
+\nofMParguments=\count292
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count293
+\MPscratchDim=\dimen111
+\MPnumerator=\count294
+\makeMPintoPDFobject=\count295
+\everyMPtoPDFconversion=\toks21
+)))
 Package hyperref Info: Link coloring ON on input line 11.
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count291
+\c@section@level=\count296
 )
 LaTeX Info: Redefining \ref on input line 11.
 LaTeX Info: Redefining \pageref on input line 11.
@@ -466,56 +468,42 @@ Overfull \hbox (17.50789pt too wide) in paragraph at lines 44--45
 -tein microarray-
  []
 
-
-Overfull \hbox (52.75792pt too wide) in paragraph at lines 48--52
-\OT1/cmr/m/n/10 Thesis: [][][][][][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--55
-
- []
-
 [1
 
-]
-Overfull \hbox (3.90121pt too wide) in paragraph at lines 63--63
-[]\OT1/cmr/m/n/10 E. Fabini, V. O. Tal-i-bov, F. Mi-halic, M. Naldi, M. Bar-tol
-ini, C. Bertucci,
- []
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 67.
 
-
-Overfull \hbox (0.40427pt too wide) in paragraph at lines 63--63
-\OT1/cmr/m/n/10 epi-ge-netic reg-u-la-tor SMYD3''. In: \OT1/cmr/m/it/10 Bio-che
-m-istry \OT1/cmr/m/n/10 58.35 (2019), pp. 3634{
- []
-
-
-Overfull \hbox (10.01605pt too wide) in paragraph at lines 63--63
-\OT1/cmr/m/n/10 Ca2+/calmodulin-dependent ki-nase II''. In: \OT1/cmr/m/it/10 J.
- Mol. Recog-nit. \OT1/cmr/m/n/10 30.8 (2017),
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 66.
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 67.
  (./talibov-cv.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 66.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 66.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 67.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 67.
 Package rerunfilecheck Info: File `talibov-cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'talibov-cv.run.xml'.
 \openout1 = `talibov-cv.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 66.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 67.
  ) 
 Here is how much of TeX's memory you used:
- 11218 strings out of 492617
- 194260 string characters out of 6129506
- 642171 words of memory out of 5000000
- 15095 multiletter control sequences out of 15000+600000
+ 11475 strings out of 492616
+ 197820 string characters out of 6129480
+ 643058 words of memory out of 5000000
+ 15339 multiletter control sequences out of 15000+600000
  5252 words of font info for 19 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,8n,45p,946b,1210s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,8n,45p,946b,1196s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr
+/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/
+local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/l
+ocal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on talibov-cv.pdf (2 pages, 97531 bytes).
+PDF statistics:
+ 62 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on talibov-cv.dvi (2 pages, 11460 bytes).

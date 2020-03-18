@@ -19,15 +19,100 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/global//global/global}
+    \entry{yang2020macrocyclic}{article}{}
+      \name{author}{12}{}{%
+        {{hash=2d207fac8bf9c5b5e8dee4d536b3be87}{%
+           family={Yang\textsuperscript{*}},
+           familyi={Y\bibinitperiod},
+           given={Jie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=bc966b4501dd56b781845bfbebeba379}{%
+           family={Talibov\textsuperscript{*}},
+           familyi={T\bibinitperiod},
+           given={Vladimir\bibnamedelima O},
+           giveni={V\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=1d3c439c01c041b36a2ac8b9ea4ed8d1}{%
+           family={Peintner},
+           familyi={P\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c4f97f8ec32ddf8aa77b4e4b1ac7d901}{%
+           family={Rhee},
+           familyi={R\bibinitperiod},
+           given={Claire},
+           giveni={C\bibinitperiod}}}%
+        {{hash=81f44f623b5a1af3fa40042c8bdb0aec}{%
+           family={Poongavanam},
+           familyi={P\bibinitperiod},
+           given={Vasanthanathan},
+           giveni={V\bibinitperiod}}}%
+        {{hash=196dd226dde1e2507eab179d6d64dace}{%
+           family={Geitmann},
+           familyi={G\bibinitperiod},
+           given={Matthis},
+           giveni={M\bibinitperiod}}}%
+        {{hash=699155d95209c1d4b313a428397876e2}{%
+           family={Sebastiano},
+           familyi={S\bibinitperiod},
+           given={Matteo\bibnamedelima Rossi},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=9066f8442f065a448e4a166b53205d38}{%
+           family={Simon},
+           familyi={S\bibinitperiod},
+           given={Bernd},
+           giveni={B\bibinitperiod}}}%
+        {{hash=7634491ee8e50afdce4fbd7a74523ab5}{%
+           family={Hennig},
+           familyi={H\bibinitperiod},
+           given={Janosch},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b581981f29ad5ecd90253248f7ce752f}{%
+           family={Dobritzsch},
+           familyi={D\bibinitperiod},
+           given={Doreen},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c9b77a2a747c3252f7916704d226ef3f}{%
+           family={Danielson},
+           familyi={D\bibinitperiod},
+           given={U.\bibnamedelimi Helena},
+           giveni={U\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=ab3af2987d3512eb63fd1698027f2193}{%
+           family={Kihlberg},
+           familyi={K\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACS Publications}%
+      }
+      \strng{namehash}{134d6d42e51407d2c3f0e7ec99892de6}
+      \strng{fullhash}{df3677bd474b73dc0ec24e6c74ff17fc}
+      \strng{bibnamehash}{df3677bd474b73dc0ec24e6c74ff17fc}
+      \strng{authorbibnamehash}{df3677bd474b73dc0ec24e6c74ff17fc}
+      \strng{authornamehash}{134d6d42e51407d2c3f0e7ec99892de6}
+      \strng{authorfullhash}{df3677bd474b73dc0ec24e6c74ff17fc}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACS omega}
+      \field{number}{5}
+      \field{title}{Macrocyclic Peptides Uncover a Novel Binding Mode for Reversible Inhibitors of LSD1}
+      \field{volume}{8}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{3979\bibrangedash 3995}
+      \range{pages}{17}
+    \endentry
     \entry{fabini2019unveiling}{article}{}
       \name{author}{8}{}{%
-        {{hash=71cbc91356906b6d4a4742bbd8443ce5}{%
-           family={Fabini},
+        {{hash=9e6302e0b18030ababa017e8edf602ab}{%
+           family={Fabini\textsuperscript{*}},
            familyi={F\bibinitperiod},
            given={Edoardo},
            giveni={E\bibinitperiod}}}%
-        {{hash=a0c71d4e5cbc2f22a1af2f25b94e249a}{%
-           family={Talibov},
+        {{hash=bc966b4501dd56b781845bfbebeba379}{%
+           family={Talibov\textsuperscript{*}},
            familyi={T\bibinitperiod},
            given={Vladimir\bibnamedelima O},
            giveni={V\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
@@ -65,12 +150,12 @@
       \list{publisher}{1}{%
         {American Chemical Society}%
       }
-      \strng{namehash}{71fbd21b3ae7a198a03863c5aaf053e0}
-      \strng{fullhash}{f08077b69b547b89908721c320e49ee1}
-      \strng{bibnamehash}{f08077b69b547b89908721c320e49ee1}
-      \strng{authorbibnamehash}{f08077b69b547b89908721c320e49ee1}
-      \strng{authornamehash}{71fbd21b3ae7a198a03863c5aaf053e0}
-      \strng{authorfullhash}{f08077b69b547b89908721c320e49ee1}
+      \strng{namehash}{1d6de5225d920864514292f6f3d1e09c}
+      \strng{fullhash}{3fd6cd1e6e63777362be5a292f2adaf9}
+      \strng{bibnamehash}{3fd6cd1e6e63777362be5a292f2adaf9}
+      \strng{authorbibnamehash}{3fd6cd1e6e63777362be5a292f2adaf9}
+      \strng{authornamehash}{1d6de5225d920864514292f6f3d1e09c}
+      \strng{authorfullhash}{3fd6cd1e6e63777362be5a292f2adaf9}
       \field{sortinit}{2}
       \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
@@ -130,13 +215,13 @@
     \endentry
     \entry{linkuviene2018introduction}{article}{}
       \name{author}{4}{}{%
-        {{hash=88f617df8f5673db2fce999c6ac73968}{%
-           family={Linkuviene},
+        {{hash=dd2eb479eadc803f413981c0ad315ad5}{%
+           family={Linkuviene\textsuperscript{*}},
            familyi={L\bibinitperiod},
            given={Vaida},
            giveni={V\bibinitperiod}}}%
-        {{hash=a0c71d4e5cbc2f22a1af2f25b94e249a}{%
-           family={Talibov},
+        {{hash=bc966b4501dd56b781845bfbebeba379}{%
+           family={Talibov\textsuperscript{*}},
            familyi={T\bibinitperiod},
            given={Vladimir\bibnamedelima O},
            giveni={V\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
@@ -154,12 +239,12 @@
       \list{publisher}{1}{%
         {American Chemical Society}%
       }
-      \strng{namehash}{f6aab3139d0531de3431ade123a872ea}
-      \strng{fullhash}{52f2919359f4dbc4fe89a163440380d2}
-      \strng{bibnamehash}{52f2919359f4dbc4fe89a163440380d2}
-      \strng{authorbibnamehash}{52f2919359f4dbc4fe89a163440380d2}
-      \strng{authornamehash}{f6aab3139d0531de3431ade123a872ea}
-      \strng{authorfullhash}{52f2919359f4dbc4fe89a163440380d2}
+      \strng{namehash}{8150e8523066a02c910db8d1cb48cc2e}
+      \strng{fullhash}{2cdbf5ca51267a6c8e319a1fd8d82fe6}
+      \strng{bibnamehash}{2cdbf5ca51267a6c8e319a1fd8d82fe6}
+      \strng{authorbibnamehash}{2cdbf5ca51267a6c8e319a1fd8d82fe6}
+      \strng{authornamehash}{8150e8523066a02c910db8d1cb48cc2e}
+      \strng{authorfullhash}{2cdbf5ca51267a6c8e319a1fd8d82fe6}
       \field{sortinit}{2}
       \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
