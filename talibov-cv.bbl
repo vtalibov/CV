@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.0 $
+% $ biblatex bbl format version 3.1 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -19,6 +19,151 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/global//global/global}
+    \entry{lima2020fragmax}{article}{}
+      \name{author}{9}{}{%
+        {{hash=e75eb60bf9fab869505ce3108bbb37f8}{%
+           family={Lima},
+           familyi={L\bibinitperiod},
+           given={Gustavo\bibnamedelima MA},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=a0c71d4e5cbc2f22a1af2f25b94e249a}{%
+           family={Talibov},
+           familyi={T\bibinitperiod},
+           given={Vladimir\bibnamedelima O},
+           giveni={V\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=b0486e33c1183e10b78dbbce61e255e1}{%
+           family={Jagudin},
+           familyi={J\bibinitperiod},
+           given={Elmir},
+           giveni={E\bibinitperiod}}}%
+        {{hash=e146e1f84a1c081d2be421473fc4b147}{%
+           family={Sele},
+           familyi={S\bibinitperiod},
+           given={C{é}leste},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e980c310853a6b7031ce1242fcd1fdb4}{%
+           family={Nyblom},
+           familyi={N\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d71f70f9b0eb3f94f2d6dff6d19f0dec}{%
+           family={Knecht},
+           familyi={K\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=7fa82507ac721a6650f6600defeda1ec}{%
+           family={Logan},
+           familyi={L\bibinitperiod},
+           given={Derek\bibnamedelima T},
+           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=9da44e1ee2b89b94f2b6d4d53af7ce79}{%
+           family={Sj{ö}gren},
+           familyi={S\bibinitperiod},
+           given={Tove},
+           giveni={T\bibinitperiod}}}%
+        {{hash=0eab51496eef697571edbdae2eabb49f}{%
+           family={Mueller},
+           familyi={M\bibinitperiod},
+           given={Uwe},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {International Union of Crystallography}%
+      }
+      \strng{namehash}{dd98ee684190c75243bf1299b34ef409}
+      \strng{fullhash}{8fbb28fdb5a4afa9dbe857d208bbcac1}
+      \strng{bibnamehash}{8fbb28fdb5a4afa9dbe857d208bbcac1}
+      \strng{authorbibnamehash}{8fbb28fdb5a4afa9dbe857d208bbcac1}
+      \strng{authornamehash}{dd98ee684190c75243bf1299b34ef409}
+      \strng{authorfullhash}{8fbb28fdb5a4afa9dbe857d208bbcac1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Crystallogr., Sect. D: Struct. Biol.}
+      \field{number}{8}
+      \field{title}{FragMAX: the fragment-screening platform at the MAX IV Laboratory}
+      \field{volume}{76}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{771\bibrangedash 777}
+      \range{pages}{7}
+    \endentry
+    \entry{ursby2020biomax}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=03f0cb6322f358d6ee7d40799c18b3d3}{%
+           family={Ursby},
+           familyi={U\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a0c24e17165cfde982776b3b992ec4eb}{%
+           family={{Å}hnberg},
+           familyi={Å\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod}}}%
+        {{hash=71f3809a5a7fcb26e5cf10f1fae0f4dc}{%
+           family={Appio},
+           familyi={A\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9315459a9105cb85a505553293132429}{%
+           family={Aurelius},
+           familyi={A\bibinitperiod},
+           given={Oskar},
+           giveni={O\bibinitperiod}}}%
+        {{hash=edb0e92aa7c2532e8eeb89c41602f9f6}{%
+           family={Barczyk},
+           familyi={B\bibinitperiod},
+           given={Artur},
+           giveni={A\bibinitperiod}}}%
+        {{hash=818bb758b8d2e8413436b0aad6bce531}{%
+           family={Bartalesi},
+           familyi={B\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7556f18821dae5498619a623307f4b06}{%
+           family={Bjel{č}i{ć}},
+           familyi={B\bibinitperiod},
+           given={Monika},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b3e9db8a18f759e53ba55cfd186ebd23}{%
+           family={Bolmsten},
+           familyi={B\bibinitperiod},
+           given={Fredrik},
+           giveni={F\bibinitperiod}}}%
+        {{hash=56545e6af43111ab58c01f0b28042281}{%
+           family={Cerenius},
+           familyi={C\bibinitperiod},
+           given={Yngve},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=2a321ff5bc95b227c0073066fc9abf73}{%
+           family={Doak},
+           familyi={D\bibinitperiod},
+           given={R\bibnamedelima Bruce},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {International Union of Crystallography}%
+      }
+      \strng{namehash}{925d9100955d8bd2bd143442a773426f}
+      \strng{fullhash}{2b86bfabe16c9dcca583f0c3074842e6}
+      \strng{bibnamehash}{2b86bfabe16c9dcca583f0c3074842e6}
+      \strng{authorbibnamehash}{2b86bfabe16c9dcca583f0c3074842e6}
+      \strng{authornamehash}{925d9100955d8bd2bd143442a773426f}
+      \strng{authorfullhash}{2b86bfabe16c9dcca583f0c3074842e6}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Synchrotron Radiat.}
+      \field{number}{5}
+      \field{title}{BioMAX--the first macromolecular crystallography beamline at MAX IV Laboratory}
+      \field{volume}{27}
+      \field{year}{2020}
+      \true{nocite}
+    \endentry
     \entry{yang2020macrocyclic}{article}{}
       \name{author}{12}{}{%
         {{hash=2d207fac8bf9c5b5e8dee4d536b3be87}{%
@@ -92,10 +237,10 @@
       \strng{authornamehash}{134d6d42e51407d2c3f0e7ec99892de6}
       \strng{authorfullhash}{df3677bd474b73dc0ec24e6c74ff17fc}
       \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{ACS omega}
+      \field{journaltitle}{ACS Omega}
       \field{number}{5}
       \field{title}{Macrocyclic Peptides Uncover a Novel Binding Mode for Reversible Inhibitors of LSD1}
       \field{volume}{8}
@@ -157,7 +302,7 @@
       \strng{authornamehash}{1d6de5225d920864514292f6f3d1e09c}
       \strng{authorfullhash}{3fd6cd1e6e63777362be5a292f2adaf9}
       \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Biochemistry}
@@ -203,7 +348,7 @@
       \strng{authorfullhash}{dd6e257539387247b4a786b1ad432267}
       \field{extraname}{1}
       \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Carbonic Anhydrase as Drug Target}
@@ -246,7 +391,7 @@
       \strng{authornamehash}{8150e8523066a02c910db8d1cb48cc2e}
       \strng{authorfullhash}{2cdbf5ca51267a6c8e319a1fd8d82fe6}
       \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{J. Med. Chem.}
@@ -283,7 +428,7 @@
       \strng{authornamehash}{21c641be693e5e6dd7b1cb340ea921f1}
       \strng{authorfullhash}{21c641be693e5e6dd7b1cb340ea921f1}
       \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{J. Mol. Recognit.}
@@ -329,7 +474,7 @@
       \strng{authorfullhash}{7ea7afcf8943c6409f87cf61377afc9b}
       \field{extraname}{2}
       \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{J. Med. Chem.}
@@ -406,7 +551,7 @@
       \strng{authornamehash}{6b76ce79c11784cb8b10bf895f972247}
       \strng{authorfullhash}{ea72d4156b9948fa1d86044af34e3702}
       \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Mol. Biol.}
@@ -483,7 +628,7 @@
       \strng{authornamehash}{6e0904e4f446a6ead56c028401c745b9}
       \strng{authorfullhash}{ac1c234bf8977b9a8ab8dfcc5e1164e0}
       \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nat. Commun.}
@@ -557,7 +702,7 @@
       \strng{authornamehash}{60e939fc1377d3162e4368ae6fd645ef}
       \strng{authorfullhash}{015a36b46a6de3e448a1c12d64c2dfd3}
       \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{J. Immunol. Methods}
@@ -611,7 +756,7 @@
       \strng{authornamehash}{55b480d562aeccb98a96c743f5216388}
       \strng{authorfullhash}{9b2bc73b177325cb2d44a40094311fb4}
       \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Dokl. Biochem. Biophys.}
