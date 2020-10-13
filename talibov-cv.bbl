@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.1 $
+% $ biblatex bbl format version 3.0 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -88,6 +88,83 @@
       \true{nocite}
       \field{pages}{771\bibrangedash 777}
       \range{pages}{7}
+    \endentry
+    \entry{rogstam2020crystal}{article}{}
+      \name{author}{11}{}{%
+        {{hash=1a060f92aeb352dbeec80eac70450248}{%
+           family={Rogstam},
+           familyi={R\bibinitperiod},
+           given={Annika},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e980c310853a6b7031ce1242fcd1fdb4}{%
+           family={Nyblom},
+           familyi={N\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6a7368da8d182f67ed837dc19736b69f}{%
+           family={Christensen},
+           familyi={C\bibinitperiod},
+           given={Signe},
+           giveni={S\bibinitperiod}}}%
+        {{hash=437108d766f3e9031ef0f4ae953e9dbe}{%
+           family={Sele},
+           familyi={S\bibinitperiod},
+           given={Celeste},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a0c71d4e5cbc2f22a1af2f25b94e249a}{%
+           family={Talibov},
+           familyi={T\bibinitperiod},
+           given={Vladimir\bibnamedelima O},
+           giveni={V\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=cc2f8a9072155bb36f969bf1212fb36d}{%
+           family={Lindvall},
+           familyi={L\bibinitperiod},
+           given={Therese},
+           giveni={T\bibinitperiod}}}%
+        {{hash=06fdda5c3db0d56dc0a5172740ade590}{%
+           family={Rasmussen},
+           familyi={R\bibinitperiod},
+           given={Anna\bibnamedelima A},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=0bbaa2cf8576b2a954ba3ad2c86c5b52}{%
+           family={Andre},
+           familyi={A\bibinitperiod},
+           given={Ingemar},
+           giveni={I\bibinitperiod}}}%
+        {{hash=e5dbad62ad2e33a9097a738ac08b6876}{%
+           family={Fisher},
+           familyi={F\bibinitperiod},
+           given={Zoe},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=d71f70f9b0eb3f94f2d6dff6d19f0dec}{%
+           family={Knecht},
+           familyi={K\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=59797a95edc5aab18b42b36194ca2471}{%
+           family={Kozielski},
+           familyi={K\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{f5126dd089c0958b6a965d53f27f2b12}
+      \strng{fullhash}{820a915928151bb8e35f1d238873e08a}
+      \strng{bibnamehash}{820a915928151bb8e35f1d238873e08a}
+      \strng{authorbibnamehash}{820a915928151bb8e35f1d238873e08a}
+      \strng{authornamehash}{f5126dd089c0958b6a965d53f27f2b12}
+      \strng{authorfullhash}{820a915928151bb8e35f1d238873e08a}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Int. J. Mol. Sci.}
+      \field{number}{21}
+      \field{title}{Crystal Structure of Non-Structural Protein 10 from Severe Acute Respiratory Syndrome Coronavirus-2}
+      \field{volume}{19}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{7375}
+      \range{pages}{1}
     \endentry
     \entry{ursby2020biomax}{article}{}
       \true{moreauthor}
