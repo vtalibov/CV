@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.0 $
+% $ biblatex bbl format version 3.1 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -19,6 +19,80 @@
 
 \refsection{0}
   \datalist[entry]{ydnt/global//global/global}
+    \entry{talibov2020discovery}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=af5ca5e3c33deb8febf23d99696b642d}{%
+           family={Talibov*},
+           familyi={T\bibinitperiod},
+           given={Vladimir\bibnamedelima O},
+           giveni={V\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=659554a0901e28d2d967d1f7fdc3a0ee}{%
+           family={Fabini*},
+           familyi={F\bibinitperiod},
+           given={Edoardo},
+           giveni={E\bibinitperiod}}}%
+        {{hash=8e8000daaab95329597a3dcf13cc579e}{%
+           family={FitzGerald},
+           familyi={F\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod}}}%
+        {{hash=7a597f1c473dcc2a60ad3939377bba68}{%
+           family={Tedesco},
+           familyi={T\bibinitperiod},
+           given={Daniele},
+           giveni={D\bibinitperiod}}}%
+        {{hash=e67a9277e3c9cc164088292322d4592f}{%
+           family={Eriksson},
+           familyi={E\bibinitperiod},
+           given={Daniela},
+           giveni={D\bibinitperiod}}}%
+        {{hash=2cb6ff7fca60394f301965126547cb02}{%
+           family={Talu},
+           familyi={T\bibinitperiod},
+           given={Martin\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=209e5408598526987663b77aced36a46}{%
+           family={Rachman},
+           familyi={R\bibinitperiod},
+           given={Moira\bibnamedelima M},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=ad2aa9a40ad897956d1f6b200adb6447}{%
+           family={Mihalic},
+           familyi={M\bibinitperiod},
+           given={Filip},
+           giveni={F\bibinitperiod}}}%
+        {{hash=f32dd26bee5ce92e9c5253ed09603576}{%
+           family={Manoni},
+           familyi={M\bibinitperiod},
+           given={Elisabetta},
+           giveni={E\bibinitperiod}}}%
+        {{hash=8235974bb1700ec1c8f1afd8472b20b6}{%
+           family={Naldi},
+           familyi={N\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{84bcf75993931e70cd4f2c7659300de4}
+      \strng{fullhash}{849e683747fae2cc7e582d92e091b67c}
+      \strng{bibnamehash}{849e683747fae2cc7e582d92e091b67c}
+      \strng{authorbibnamehash}{849e683747fae2cc7e582d92e091b67c}
+      \strng{authornamehash}{84bcf75993931e70cd4f2c7659300de4}
+      \strng{authorfullhash}{849e683747fae2cc7e582d92e091b67c}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ChemBioChem}
+      \field{title}{Discovery of an allosteric ligand binding site in SMYD3 lysine methyltransferase}
+      \field{volume}{22}
+      \field{year}{2021}
+      \true{nocite}
+    \endentry
     \entry{lima2020fragmax}{article}{}
       \name{author}{9}{}{%
         {{hash=e75eb60bf9fab869505ce3108bbb37f8}{%
@@ -789,61 +863,6 @@
       \true{nocite}
       \field{pages}{51\bibrangedash 57}
       \range{pages}{7}
-    \endentry
-    \entry{rubina2012multiplex}{article}{}
-      \name{author}{6}{}{%
-        {{hash=03929ef3a68398846b4d86b76965d94c}{%
-           family={Rubina},
-           familyi={R\bibinitperiod},
-           given={A\bibnamedelima Yu},
-           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
-        {{hash=0605752854840dcbcb0cf120cd825572}{%
-           family={Feizkhanova},
-           familyi={F\bibinitperiod},
-           given={G\bibnamedelima U},
-           giveni={G\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
-        {{hash=7aa02a60a473d318e0b8dc6cc67878e7}{%
-           family={Filippova},
-           familyi={F\bibinitperiod},
-           given={M\bibnamedelima A},
-           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=2de60e85510dbc7ea2b6ba1fcd423c6f}{%
-           family={Talibov},
-           familyi={T\bibinitperiod},
-           given={V\bibnamedelima O},
-           giveni={V\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
-        {{hash=3d984b3ff76a8a0d751302b1ebf56b3e}{%
-           family={Fooke-Achterrath},
-           familyi={F\bibinithyphendelim A\bibinitperiod},
-           given={M},
-           giveni={M\bibinitperiod}}}%
-        {{hash=0bd470027d776f41fd28e8ab4fc8244e}{%
-           family={Zasedatelev},
-           familyi={Z\bibinitperiod},
-           given={A\bibnamedelima S},
-           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-      }
-      \list{organization}{1}{%
-        {Springer Science \& Business Media}%
-      }
-      \strng{namehash}{55b480d562aeccb98a96c743f5216388}
-      \strng{fullhash}{9b2bc73b177325cb2d44a40094311fb4}
-      \strng{bibnamehash}{9b2bc73b177325cb2d44a40094311fb4}
-      \strng{authorbibnamehash}{9b2bc73b177325cb2d44a40094311fb4}
-      \strng{authornamehash}{55b480d562aeccb98a96c743f5216388}
-      \strng{authorfullhash}{9b2bc73b177325cb2d44a40094311fb4}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Dokl. Biochem. Biophys.}
-      \field{number}{1}
-      \field{title}{Multiplex assay of allergen-specific and total immunoglobulins of E and G classes in the biochip format}
-      \field{volume}{447}
-      \field{year}{2012}
-      \true{nocite}
-      \field{pages}{289}
-      \range{pages}{1}
     \endentry
   \enddatalist
 \endrefsection
