@@ -2,84 +2,94 @@
 
 \setlength{\textwidth}{5in}
 
+\usepackage{layout}
+\usepackage[utf8]{inputenc}
 \usepackage{hyperref}
 \hypersetup{colorlinks=true, urlcolor=blue}
 
 \usepackage[sorting=ydnt,style=numeric, giveninits=true, maxbibnames=40]{biblatex}
 \addbibresource{talibov-cv.bib}
 
+\textheight=700pt
+
 \begin{document}
 
-\moveleft.5\hoffset\centerline{\large\bf Vladimir O. Talibov}
-\moveleft\hoffset\vbox{\hrule width\resumewidth height 1pt}\smallskip
-\moveleft.5\hoffset\centerline{Last update: \today}
-\moveleft.5\hoffset\centerline{Svartb\"acksgatan 19 \hfill \href{https://vtalibov.xyz}{https://vtalibov.xyz}}
-\moveleft.5\hoffset\centerline{SE 75332 \hfill \href{mailto:mail@vtalibov.xyz}{mail@vtalibov.xyz}}
-\moveleft.5\hoffset\centerline{Uppsala, Sweden \hfill }
+    \moveleft.5\hoffset\centerline{\large\bf Vladimir O. Talibov}
+    \moveleft\hoffset\vbox{\hrule width\resumewidth height 1pt}\smallskip
+    \moveleft.5\hoffset\centerline{Last update: \today}
+    \moveleft.5\hoffset\centerline{Småbrukets backe 31 \hfill \href{mailto:vladimir.o.talibov@gmail.com}{vladimir.o.talibov@gmail.com}}
+    \moveleft.5\hoffset\centerline{SE 141 58, Huddinge, Sweden \hfill}
+    
+    \begin{resume}
+      
+        \section{Summary}{Biochemist with a passion for target-based drug discovery. I like to keep a bridge between physical chemistry and protein science. Experienced in kinetic and biophysical methods.}
+    
+        \section{Skills}
 
-\begin{resume}
-  
-    \section{Summary}{A protein biochemist with an interest in ligand discovery. Experienced in biophysical and kinetic methods.}
+        {\sl \underline{Experimental:}} Biochemical assays, biophysical methods (SPR biosensors, ITC, TSA), enzymology, protein techniques, expression\&purification, automation, protein crystallography\\
+        {\sl \underline{Computer:}} KNIME, \TeX, Linux, basic Python (RDKit, scipy), ELN, LIMS\\
+%        {\sl \underline{Languages:}} English, Russian, Swedish (basic)\\
+        {\sl \underline{Expertise:}} Enzymology, assay development, biophysical methods, small molecules.
+    
+        \section{Experience} 
+        
+            {\sl Associate Principal Scientist, Senior Scientist} \hfill Mar 2021 -- current \\
+            Sprint Bioscience AB, Huddinge, Sweden
+            \begin{itemize}
+            \setlength\itemsep{0em}
+            \item Biochemical and biophysical methods in DMTA cycle
+            \item Support of FBLD projects as a member of Protein Science team
+            \item Protein biochemistry.
+            \end{itemize}
+            
+            {\sl Researcher} \hfill Aug 2019 -- Feb 2021 \\
+            MAX IV Laboratory, Lund, Sweden
+            \begin{itemize}
+            \setlength\itemsep{0em}
+            \item Operation protocols of core fragment screening facility
+            \item Design, curation and maintenance of in-house fragment library
+            \item BioMAX user support as a beamline scientist, including on-call service.
+            \end{itemize}
+            
+            {\sl PhD student, Researcher} \hfill Apr 2014 -- Jun 2019 \\
+            Uppsala University, Uppsala, Sweden
+            \begin{itemize}
+            \setlength\itemsep{0em}
+            \item Development of biophysical and enzymatic assays for ligand discovery
+            \item Maintenance of biosensors and chromatographic equipment
+            \item Teaching (20\%, MSc-level courses).
+            \end{itemize}
+            
+            {\sl Laboratory Assistant} \hfill Jul 2012 -- Feb 2014 \\
+            OOO "Biochip-IMB", Moscow, Russia
+            \begin{itemize}
+            \setlength\itemsep{0em}
+            \item Validation of multiplex clinical diagnostics assays
+            \item QC of proteins, synthetic oligonucleotides and reactive small molecules.
+            \end{itemize}
+         
+        \section{Education} 
 
-\section{Skills}
-{\sl \underline{Experimental:}} Biophysical methods (SPR biosensors, TSA, MST), protein techniques, expression\&purification, macromolecular crystallography\\
-{\sl \underline{Computer:}} Linux, RDKit,  KNIME\\
-{\sl \underline{Languages:}} English, Russian, Swedish (basic)\\
-{\sl \underline{Expertise:}} Biophysical methods, enzymology, small molecules.
+            {\sl PhD in Biochemistry} \hfill 2014 -- 2019 \\
+            Uppsala University, Uppsala, Sweden \\
+            Advisor: Prof. U. Helena Danielson \\
+            \href{http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1256395&dswid=214}{"Interaction kinetic analysis in drug design, enzymology and protein research"}.
+            
+            {\sl BSc\&MSc in Chemistry} \hfill 2008 -- 2013 \\
+            Moscow State University, Moscow, Russia \\
+            Specialisation in bioorganic chemistry.
+                        
+        \section{Interests} Molecular recognition, assay technology, early stage drug discovery, mechanistic characterization.
+        
+        \section{Publications}
 
-\section{Experience} 
+            \nocite{*}
+            h-index - 9, research articles - 12; details are available at \href{https://scholar.google.com/citations?hl=sv&user=H5uK2zsAAAAJ&view_op=list_works&authuser=2&sortby=pubdate}{GScholar}.\\
+            Other: reviews - 2, book chapters - 1, patents  - 1.\\
+            
+            % Uncomment to print bibliography
+            % \printbibliography[heading=none]
 
-{\sl Senior Scientist} \hfill Mar 2021 -- current \\
-Sprint Bioscience AB, Huddinge, Sweden
-\begin{itemize}
-\setlength\itemsep{0em}
-\item Support of FBLD projects as a member of Protein Science Team
-\item Structural biology (MX)
-\item Protein biochemistry.
-\end{itemize}
-
-{\sl Researcher} \hfill Aug 2019 -- Feb 2021 \\
-MAX IV Laboratory, Lund, Sweden
-\begin{itemize}
-\setlength\itemsep{0em}
-\item Development of operation protocols for MAX IV fragment screening facility
-\item Design, curation and maintenance of in-house fragment library
-\item BioMAX user support as a beamline scientist, including on-call service.
-\end{itemize}
-
-{\sl PhD student, Researcher} \hfill Apr 2014 -- Jun 2019 \\
-Uppsala University, Uppsala, Sweden
-\begin{itemize}
-\setlength\itemsep{0em}
-\item Development of biophysical and enzymatic assays for ligand discovery
-\item Maintenance of biosensors and chromatographic equipment.
-\item Teaching (20\%, MSc-level courses)
-\end{itemize}
-
-{\sl Laboratory Assistant} \hfill Jul 2012 -- Feb 2014 \\
-OOO "Biochip-IMB", Moscow, Russia
-\begin{itemize}
-\setlength\itemsep{0em}
-\item Development and validation of multiplex clinical diagnostics assays
-\item QC of proteins, synthetic oligonucleotides and reactive small molecules.
-\end{itemize}
- 
-\section{Education} {\sl PhD in Biochemistry} \hfill 2014 -- 2019 \\
-Uppsala University, Uppsala, Sweden \\
-Advisor: Prof. U. Helena Danielson \\
-\href{http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1256395&dswid=214}{"Interaction kinetic analysis in drug design, enzymology and protein research"}.
-
-{\sl BSc\&MSc in Chemistry} \hfill 2008 -- 2013 \\
-Moscow State University, Moscow, Russia \\
-Specialisation in bioorganic chemistry.
-                
-\section{Interests} Molecular recognition, early stage lead discovery, screening techniques.
-
-\section{Publications}
-\nocite{*}
-Research articles: 9; details are available at \href{https://scholar.google.com/citations?hl=sv&user=H5uK2zsAAAAJ&view_op=list_works&authuser=2&sortby=pubdate}{GScholar}.\\
-Other: reviews - 2, book chapters - 1, patents  - 1.\\
-\printbibliography[heading=none]
-\end{resume}
+    \end{resume}
 
 \end{document}
