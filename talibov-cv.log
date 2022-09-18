@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.4.16)  11 SEP 2022 22:06
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.4.16)  18 SEP 2022 16:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -589,7 +589,7 @@ Package logreq Info: Writing requests to 'talibov-cv.run.xml'.
 Here is how much of TeX's memory you used:
  15244 strings out of 476179
  273218 string characters out of 5809544
- 1010403 words of memory out of 5000000
+ 1010429 words of memory out of 5000000
  35866 multiletter control sequences out of 15000+600000
  469659 words of font info for 34 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
